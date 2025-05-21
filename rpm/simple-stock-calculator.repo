@@ -1,0 +1,5 @@
+[simple-stock-calculator]
+name=simple-stock-calculator Github Repo
+baseurl=https://omelet3032.github.io/simple-stock-calculator-rpm/
+enabled=1
+gpgcheck=0
